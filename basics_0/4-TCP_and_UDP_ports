@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Displays all listening sockets with PID and process name
 
 ss -tulnp
